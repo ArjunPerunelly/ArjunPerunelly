@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**ArjunPerunelly/ArjunPerunelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics & Computer Engineering Student
+Building practical projects, exploring APIs, and learning by shipping.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+About Me
+·	🎓 Electronics and Computer Engineering student
+·	🛠️ Building Neko Anime API and practical software projects
+·	🌱 Learning programming, APIs, and web development
+·	🎯 Interested in engineering, problem-solving, and technology
+Tech Stack
+
+  
+  
+  
+  
+  
+
+Featured Project
+🎌 Neko Anime API
+A project focused on anime discovery, including search, seasonal listings, and airing schedules.
+Explore my repositories →
+Update this section with the direct URL to the Neko Anime API repository when you know its exact repository name.
+GitHub Statistics
+
+
+  
+
+Build with curiosity. Improve with every commit.
