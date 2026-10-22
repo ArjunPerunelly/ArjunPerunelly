@@ -56,5 +56,4 @@ An anime discovery project focused on search, seasonal anime, and airing schedul
 
 *Build with curiosity. Improve with every commit.*
 
-</div>
-<img width="1020" height="652" alt="image" src="https://github.com/user-attachments/assets/c3488cd9-43c1-4dd5-95f9-3db751d40fce" />
+
