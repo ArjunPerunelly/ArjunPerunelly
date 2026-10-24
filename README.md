@@ -2,7 +2,7 @@
 
 <img src="profile-banner.png" width="100%" alt="Arjun Perunelly — monochrome engineering and development banner" />
 
-# Hi, I'm Arjun Perunelly 👋
+# Hi, I'm Arjun 👋
 
 **Electronics & Computer Engineering Student**
 
