@@ -105,13 +105,9 @@ Explore my portfolio to see my projects, skills, and development journey.
 
 ---
 
-## 👾 Space Shooter — GitHub Contributions
-
 <div align="center">
 
-<img src="./game.gif" width="100%" alt="GitHub contribution animation"/>
-
-<p><i>My contributions, arcade-style. 🚀</i></p>
+<img src="./game.gif" width="100%" alt="Animated GitHub contribution graph"/>
 
 </div>
 
