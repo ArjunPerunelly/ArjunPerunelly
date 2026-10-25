@@ -93,7 +93,7 @@
 
 ## 🌐 My Portfolio
 
-Explore my portfolio to see my projects, skills, and development journey.
+<p>Explore my portfolio to see my projects, skills, and development journey.</p>
 
 <div align="center">
 
@@ -105,9 +105,23 @@ Explore my portfolio to see my projects, skills, and development journey.
 
 ---
 
+## 📈 GitHub Contributions
+
 <div align="center">
 
-<img src="./game.gif" width="100%" alt="Animated GitHub contribution graph"/>
+<!-- Actual contribution calendar -->
+<img
+  src="https://ghchart.rshah.org/8B5CF6/ArjunPerunelly"
+  alt="Arjun's GitHub contribution calendar"
+  width="100%"
+/>
+
+<!-- Animated contribution Space Shooter -->
+<img
+  src="./game.gif"
+  alt="Animated GitHub contribution Space Shooter"
+  width="100%"
+/>
 
 </div>
 
@@ -117,9 +131,17 @@ Explore my portfolio to see my projects, skills, and development journey.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArjunPerunelly&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C4B5FD&amp;icon_color=A78BFA&amp;text_color=E6EDF3" alt="GitHub statistics"/>
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=ArjunPerunelly&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C4B5FD&amp;icon_color=A78BFA&amp;text_color=E6EDF3"
+  alt="GitHub statistics"
+/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunPerunelly&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C4B5FD&amp;text_color=E6EDF3" alt="Most-used programming languages"/>
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunPerunelly&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C4B5FD&amp;text_color=E6EDF3"
+  alt="Most-used programming languages"
+/>
 
 </div>
 
