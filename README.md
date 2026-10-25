@@ -1,9 +1,9 @@
- <div align="center">
+
+<div align="center">
 
 <img src="profile-banner.png" width="100%" alt="Arjun — monochrome manga-style engineering and development banner" />
 
 <h1>Hi, I'm Arjun 👋</h1>
-
 
 <p>
   <strong>Electronics & Computer Engineering Student</strong><br/>
@@ -62,14 +62,21 @@
 <table>
   <tr>
     <td width="40%" align="center">
-      <img src="neko-project.svg" width="100%" alt="Neko Anime API project artwork"/>
+      <a href="https://neko-1-pp28.onrender.com/">
+        <img src="neko-project.svg" width="100%" alt="Neko Anime API project artwork"/>
+      </a>
     </td>
     <td width="60%">
       <h3>Neko Anime API</h3>
-      Exploring anime discovery through API-powered data, focusing on anime search, seasonal titles, and airing schedules.
+      An anime discovery project exploring API-powered data, anime search, seasonal titles, and airing schedules.
+
       <br/><br/>
-      <a href="https://github.com/ArjunPerunelly?tab=repositories">
-        <img src="https://img.shields.io/badge/Explore_Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+
+      <a href="https://neko-1-pp28.onrender.com/" title="Visit the live Neko website">
+        <img src="https://img.shields.io/badge/Visit_Neko-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Neko"/>
+      </a>
+      <a href="https://github.com/ArjunPerunelly?tab=repositories" title="Explore GitHub repositories">
+        <img src="https://img.shields.io/badge/GitHub_Repositories-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
       </a>
     </td>
   </tr>
@@ -78,12 +85,17 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArjunPerunelly&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=E6EDF3" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunPerunelly&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E6EDF3" alt="Most-used programming languages"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArjunPerunelly&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=E6EDF3" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunPerunelly&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E6EDF3" alt="Most-used programming languages"/>
+
 </div>
 
 ---
 
 <div align="center">
-  <i>Code. Build. Learn. Explore. Repeat.</i>
+
+<i>Code. Build. Learn. Explore. Repeat.</i>
+
 </div>
