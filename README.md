@@ -60,6 +60,8 @@
   </a>
 </p>
 
+---
+
 ## 🚀 Featured Project
 
 <table>
@@ -76,10 +78,10 @@
         seasonal titles, and airing schedules.
       </p>
       <p>
-        <a href="https://neko-1-pp28.onrender.com/" title="Visit the live Neko website">
+        <a href="https://neko-1-pp28.onrender.com/">
           <img src="https://img.shields.io/badge/Visit_Neko-8B5CF6?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit Neko"/>
         </a>
-        <a href="https://github.com/ArjunPerunelly?tab=repositories" title="Explore GitHub repositories">
+        <a href="https://github.com/ArjunPerunelly?tab=repositories">
           <img src="https://img.shields.io/badge/Explore_Repositories-18181B?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore repositories"/>
         </a>
       </p>
@@ -87,17 +89,33 @@
   </tr>
 </table>
 
+---
+
 ## 🌐 My Portfolio
 
-<p>
-  Explore my portfolio to see my projects, skills, and development journey.
-</p>
+Explore my portfolio to see my projects, skills, and development journey.
 
-<p align="center">
-  <a href="https://arjunperunelly.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://arjunperunelly.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Explore_My_Portfolio-8B5CF6?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Explore my portfolio"/>
+</a>
+
+</div>
+
+---
+
+## 👾 Space Shooter — GitHub Contributions
+
+<div align="center">
+
+<img src="./game.gif" width="100%" alt="Animated Space Shooter generated from my GitHub contributions"/>
+
+<p><i>My contributions, arcade-style. 🚀</i></p>
+
+</div>
+
+---
 
 ## 📊 GitHub Statistics
 
@@ -113,6 +131,6 @@
 
 <div align="center">
 
-<i>Code. Build. Learn. Explore. Repeat.</i>
+<i>Code. Build. Learn. Explore. Repeat. 💜</i>
 
 </div>
