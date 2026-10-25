@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/arjun-p-34a9ba37b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[https://arjun-perunelly-portfolio.netlify.app]">
+  <a href="https://arjun-perunelly-portfolio.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio"/>
   </a>
 </p>
