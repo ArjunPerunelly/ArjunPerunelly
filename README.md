@@ -6,16 +6,16 @@
 <h1>Hi, I'm Arjun 👋</h1>
 
 <p>
-  <strong>Electronics & Computer Engineering Student</strong><br/>
+  <strong>Electronics &amp; Computer Engineering Student</strong><br/>
   Building projects, exploring technology, and learning by doing.
 </p>
 
 <p>
   <a href="https://github.com/ArjunPerunelly">
-    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/arjun-p-34a9ba37b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing Electronics & Computer Engineering
+- 🎓 Pursuing Electronics &amp; Computer Engineering
 - 💻 Learning programming, web development, and API integration
 - 🛠️ Building practical software projects and exploring new technologies
 - ⚡ Interested in electronics, computing, and problem-solving
@@ -38,22 +38,22 @@
 
 <p>
   <a href="https://www.python.org/" title="Python official website">
-    <img src="https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+    <img src="https://img.shields.io/badge/Python-18181B?style=for-the-badge&amp;logo=python&amp;logoColor=FFD43B" alt="Python"/>
   </a>
   <a href="https://en.cppreference.com/w/c/language/" title="C language reference">
-    <img src="https://img.shields.io/badge/C-18181B?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C"/>
+    <img src="https://img.shields.io/badge/C-18181B?style=for-the-badge&amp;logo=c&amp;logoColor=A8B9CC" alt="C"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript documentation">
-    <img src="https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript"/>
   </a>
   <a href="https://react.dev/" title="React official website">
-    <img src="https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/React-18181B?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React"/>
   </a>
   <a href="https://git-scm.com/" title="Git official website">
-    <img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+    <img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&amp;logo=git&amp;logoColor=F05032" alt="Git"/>
   </a>
   <a href="https://github.com/" title="GitHub official website">
-    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub"/>
   </a>
 </p>
 
@@ -70,15 +70,7 @@
       <h3>Neko Anime API</h3>
       An anime discovery project exploring API-powered data, anime search, seasonal titles, and airing schedules.
 
-      <br/><br/>
-
-      <a href="https://neko-1-pp28.onrender.com/" title="Visit the live Neko website">
-        <img src="https://img.shields.io/badge/Visit_Neko-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Neko"/>
-      </a>
-      <a href="https://github.com/ArjunPerunelly?tab=repositories" title="Explore GitHub repositories">
-        <img src="https://img.shields.io/badge/GitHub_Repositories-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-      </a>
-    </td>
+     
   </tr>
 </table>
 
@@ -86,9 +78,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArjunPerunelly&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=E6EDF3" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArjunPerunelly&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C4B5FD&amp;icon_color=A78BFA&amp;text_color=E6EDF3" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunPerunelly&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E6EDF3" alt="Most-used programming languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunPerunelly&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C4B5FD&amp;text_color=E6EDF3" alt="Most-used programming languages"/>
 
 </div>
 
