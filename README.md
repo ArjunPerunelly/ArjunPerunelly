@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="profile-banner.gif" width="100%" alt="Arjun — monochrome manga-style engineering and development banner" />
+<img src="profile-banner.png" width="100%" alt="Arjun — monochrome manga-style engineering and development banner" />
 
 <h1>Hi, I'm Arjun 👋</h1>
 
