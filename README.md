@@ -93,7 +93,9 @@
 
 ## 🌐 My Portfolio
 
-<p>Explore my portfolio to see my projects, skills, and development journey.</p>
+<p>
+  Explore my portfolio to see my projects, skills, and development journey.
+</p>
 
 <div align="center">
 
@@ -105,22 +107,12 @@
 
 ---
 
-## 📈 GitHub Contributions
-
 <div align="center">
 
-<!-- Actual contribution calendar -->
-<img
-  src="https://ghchart.rshah.org/8B5CF6/ArjunPerunelly"
-  alt="Arjun's GitHub contribution calendar"
-  width="100%"
-/>
-
-<!-- Animated contribution Space Shooter -->
 <img
   src="./game.gif"
-  alt="Animated GitHub contribution Space Shooter"
   width="100%"
+  alt="Animated GitHub contribution Space Shooter"
 />
 
 </div>
