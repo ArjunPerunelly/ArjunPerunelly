@@ -17,6 +17,9 @@
   <a href="https://www.linkedin.com/in/arjun-p-34a9ba37b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://arjunperunelly.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 </div>
@@ -68,11 +71,33 @@
     </td>
     <td width="60%">
       <h3>Neko Anime API</h3>
-      An anime discovery project exploring API-powered data, anime search, seasonal titles, and airing schedules.
-
-     
+      <p>
+        An anime discovery project exploring API-powered data, anime search,
+        seasonal titles, and airing schedules.
+      </p>
+      <p>
+        <a href="https://neko-1-pp28.onrender.com/" title="Visit the live Neko website">
+          <img src="https://img.shields.io/badge/Visit_Neko-8B5CF6?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit Neko"/>
+        </a>
+        <a href="https://github.com/ArjunPerunelly?tab=repositories" title="Explore GitHub repositories">
+          <img src="https://img.shields.io/badge/Explore_Repositories-18181B?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore repositories"/>
+        </a>
+      </p>
+    </td>
   </tr>
 </table>
+
+## 🌐 My Portfolio
+
+<p>
+  Explore my portfolio to see my projects, skills, and development journey.
+</p>
+
+<p align="center">
+  <a href="https://arjunperunelly.github.io/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-8B5CF6?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit my portfolio"/>
+  </a>
+</p>
 
 ## 📊 GitHub Statistics
 
@@ -91,3 +116,4 @@
 <i>Code. Build. Learn. Explore. Repeat.</i>
 
 </div>
+****
